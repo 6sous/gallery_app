@@ -1,20 +1,33 @@
-.buttons {
-  display: flex;
-  gap: 0.5rem;
-}
-.gallery {
-  width: 90%;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 1rem;
+.home-container {
   padding: 1rem;
-  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 
-  div {
-    .photo {
-      width: 100%;
-      object-fit: cover;
-      aspect-ratio: 1/1;
+  .buttons {
+    display: flex;
+    gap: 0.5rem;
+  }
+  .gallery {
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+    padding: 1rem;
+    margin: 0 auto;
+
+    button {
+      border: none;
+      padding: 0;
+      cursor: pointer;
+
+      .photo {
+        width: 100%;
+        object-fit: cover;
+        aspect-ratio: 1 / 1;
+      }
     }
   }
 }

@@ -3,13 +3,21 @@
   align-items: center;
   justify-content: center;
   position: relative;
+  margin: 0 auto;
   width: clamp(200px, 40%, 300px);
-
   .search-input {
     width: 100%;
     padding: 0.5rem;
     border-radius: 0.5rem;
     background-color: rgb(252, 242, 230);
     border: 2px solid rgb(219, 201, 178);
+  }
+  i {
+    font-size: 1.2rem;
+    position: absolute;
+    right: 0.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: rgb(134, 118, 96);
   }
 }

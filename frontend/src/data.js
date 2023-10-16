@@ -4,7 +4,7 @@ const photoGallery = [
     url: "src/assets/plage_dorée.jpg",
     category: "ocean",
     description:
-      "Une plage dorée au coucher de soleil, l'endroit idéal pour se détendre et admirer la vue.",
+      " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam doloribus eius dolore alias ab? Ad pariatur fugit quas quaerat, saepe iure esse reprehenderit! Et numquam error tempora delectus veniam minima natus excepturi dolore ipsum? Numquam commodi dolore doloribus, esse ipsam atque? Impedit enim tenetur atque. Quae quod harum nobis commodi?",
     id: 1,
   },
   {
@@ -12,7 +12,7 @@ const photoGallery = [
     url: "src/assets/lake_mountain.jpg",
     category: "nature",
     description:
-      "Un coucher de soleil spectaculaire sur une ville illuminée, créant une atmosphère magique.",
+      " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam doloribus eius dolore alias ab? Ad pariatur fugit quas quaerat, saepe iure esse reprehenderit! Et numquam error tempora delectus veniam minima natus excepturi dolore ipsum? Numquam commodi dolore doloribus, esse ipsam atque? Impedit enim tenetur atque. Quae quod harum nobis commodi?",
     id: 2,
   },
   {
@@ -20,7 +20,7 @@ const photoGallery = [
     url: "src/assets/buildings.jpg",
     category: "architecture",
     description:
-      "Un bouquet de fleurs colorées dans un jardin bien entretenu, égayant l'environnement.",
+      " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam doloribus eius dolore alias ab? Ad pariatur fugit quas quaerat, saepe iure esse reprehenderit! Et numquam error tempora delectus veniam minima natus excepturi dolore ipsum? Numquam commodi dolore doloribus, esse ipsam atque? Impedit enim tenetur atque. Quae quod harum nobis commodi?",
     id: 3,
   },
   {
@@ -28,7 +28,7 @@ const photoGallery = [
     url: "src/assets/cascade_forêt.jpg",
     category: "Nature",
     description:
-      "Une cascade majestueuse au milieu de la forêt, offrant un spectacle apaisant de la nature.",
+      " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam doloribus eius dolore alias ab? Ad pariatur fugit quas quaerat, saepe iure esse reprehenderit! Et numquam error tempora delectus veniam minima natus excepturi dolore ipsum? Numquam commodi dolore doloribus, esse ipsam atque? Impedit enim tenetur atque. Quae quod harum nobis commodi?",
     id: 4,
   },
   {
@@ -36,7 +36,7 @@ const photoGallery = [
     url: "src/assets/rue_historique.jpg",
     category: "Architecture",
     description:
-      "Une rue historique avec des bâtiments en pierre, témoignant du passé riche de la ville.",
+      " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam doloribus eius dolore alias ab? Ad pariatur fugit quas quaerat, saepe iure esse reprehenderit! Et numquam error tempora delectus veniam minima natus excepturi dolore ipsum? Numquam commodi dolore doloribus, esse ipsam atque? Impedit enim tenetur atque. Quae quod harum nobis commodi?",
     id: 5,
   },
   {
@@ -44,7 +44,7 @@ const photoGallery = [
     url: "src/assets/montagne_enneigée.jpg",
     category: "Nature",
     description:
-      "Des montagnes enneigées sous un ciel bleu, un paysage hivernal pittoresque.",
+      " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam doloribus eius dolore alias ab? Ad pariatur fugit quas quaerat, saepe iure esse reprehenderit! Et numquam error tempora delectus veniam minima natus excepturi dolore ipsum? Numquam commodi dolore doloribus, esse ipsam atque? Impedit enim tenetur atque. Quae quod harum nobis commodi?",
     id: 6,
   },
   {
@@ -52,7 +52,7 @@ const photoGallery = [
     url: "src/assets/medusa.jpg",
     category: "ocean",
     description:
-      "Une plage dorée au coucher de soleil, l'endroit idéal pour se détendre et admirer la vue.",
+      " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam doloribus eius dolore alias ab? Ad pariatur fugit quas quaerat, saepe iure esse reprehenderit! Et numquam error tempora delectus veniam minima natus excepturi dolore ipsum? Numquam commodi dolore doloribus, esse ipsam atque? Impedit enim tenetur atque. Quae quod harum nobis commodi?",
     id: 7,
   },
   {
@@ -60,7 +60,7 @@ const photoGallery = [
     url: "src/assets/wave.jpg",
     category: "ocean",
     description:
-      "Des fleurs printanières colorées dans un parc, créant un tableau vivant de la saison.",
+      " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam doloribus eius dolore alias ab? Ad pariatur fugit quas quaerat, saepe iure esse reprehenderit! Et numquam error tempora delectus veniam minima natus excepturi dolore ipsum? Numquam commodi dolore doloribus, esse ipsam atque? Impedit enim tenetur atque. Quae quod harum nobis commodi?",
     id: 8,
   },
   {
@@ -68,7 +68,7 @@ const photoGallery = [
     url: "src/assets/château.jpg",
     category: "Architecture",
     description:
-      "Un château médiéval imposant au milieu des collines, un vestige de l'histoire.",
+      " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam doloribus eius dolore alias ab? Ad pariatur fugit quas quaerat, saepe iure esse reprehenderit! Et numquam error tempora delectus veniam minima natus excepturi dolore ipsum? Numquam commodi dolore doloribus, esse ipsam atque? Impedit enim tenetur atque. Quae quod harum nobis commodi?",
     id: 9,
   },
 ];
